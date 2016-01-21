@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SalesRabbitTest</string>
+    <string name="loading">LOADING . . .</string>
+<string name="backbtn">Back to Friends List</string>
+</resources>
